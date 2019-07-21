@@ -1,9 +1,9 @@
 class Sjq < Formula
   desc "Command-line JSON processor with Scala syntax"
   homepage "https://github.com/yannick-cw/sjq"
-  url "https://github.com/yannick-cw/sjq/releases/download/0.0.2/sjq-0.0.2.tar.gz"
-  sha256 "55a6105882db1f0dc9c95ee16f9c7954ff9c79a8f3557f729dedff3b28cc1755"
-  version "0.0.2"
+  url "https://github.com/yannick-cw/sjq/releases/download/v0.0.3/sjq-0.0.3.tar.gz"
+  sha256 "25ddfc6ef3eef12b31229dbd07fcb8ac218fd24ae7eedef54f2e0e770d4ce222"
+  version "0.0.3"
   
   def install
     prefix.install "lib"
