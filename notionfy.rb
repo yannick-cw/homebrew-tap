@@ -7,6 +7,6 @@ class Notionfy < Formula
   
   def install
     prefix.install "lib"
-    bin.install "notionfy"
+    bin.install "bin/notionfy"
   end
 end
