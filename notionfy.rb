@@ -6,7 +6,6 @@ class Notionfy < Formula
   sha256 "295033bc7800135ac47866e4752be6de07195e7afe59dbbf9335d8c31812327c"
   
   def install
-    prefix.install "lib"
     bin.install "bin/notionfy"
   end
 end
