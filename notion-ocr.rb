@@ -1,4 +1,4 @@
-class Notion-Ocr < Formula
+class NotionOcr < Formula
   desc "Adding ocr to images in notion"
   homepage "https://github.com/yannick-cw/notion-ocr"
   version "0.1"
