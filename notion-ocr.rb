@@ -1,11 +1,11 @@
 class NotionOcr < Formula
   desc "Adding ocr to images in notion"
   homepage "https://github.com/yannick-cw/notion-ocr"
-  version "0.1"
-  url "https://github.com/yannick-cw/notion-ocr/releases/download/v0.1/notion-ocr-0.1.tar.gz"
-  sha256 "8dc6a309084081d72d9791362f3429e865972a098f0709ac9151f9b95eeef5b0"
+  version "0.1.1"
+  url "https://github.com/yannick-cw/notion-ocr/releases/download/0.1.1/notion-ocr_mac.tar.gz"
+  sha256 "4a4017868e2da7bb51b1753ff19c6d870f9c45f8ed1affef7166351f11ef60b7"
   
   def install
-    bin.install "bin/notion-ocr"
+    bin.install "notion-ocr"
   end
 end
