@@ -6,6 +6,6 @@ class Notionfy < Formula
   sha256 "5a30f66df9da2ddb7ed30cb76baf61d21b603f3a554f8b60b497ae6786926221"
   
   def install
-    bin.install "bin/notionfy"
+    bin.install "notionfy"
   end
 end
