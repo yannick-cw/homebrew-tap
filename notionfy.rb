@@ -1,9 +1,9 @@
 class Notionfy < Formula
   desc "Syncing kindle highlights to notion"
   homepage "https://github.com/yannick-cw/notionfy"
-  version "0.2.1"
+  version "0.2.2"
   url "https://github.com/yannick-cw/notionfy/releases/download/0.2.1/notionfy_osx.tar.gz"
-  sha256 "0df5b985f1c09f3d4d45cecf503a7accd49d55916ffa6a2d576b32d7b09b21a1"
+  sha256 "f0fc07d3cccd580a4ab60d10ab537d7ce23d19ff95c91dc901d8cae7d6f54449"
   
   def install
     bin.install "notionfy"
