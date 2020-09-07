@@ -3,7 +3,7 @@ class Notionfy < Formula
   homepage "https://github.com/yannick-cw/notionfy"
   version "0.2.4"
   url "https://github.com/yannick-cw/notionfy/releases/download/0.2.4/notionfy_osx.tar.gz"
-  sha256 "8474c140b519b996cae45899818a9f3328a13a4d20de114a5470386cace7e883"
+  sha256 "54c2310f44b96424a06f20d77ea7c7de07132e996c27fca21121040173aaa313"
   
   def install
     bin.install "notionfy"
